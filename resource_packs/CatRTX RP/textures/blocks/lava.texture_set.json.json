@@ -1,0 +1,11 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "lava_still",
+    "metalness_emissive_roughness": [
+      255,
+      100,
+      255
+    ]
+  }
+}

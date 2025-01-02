@@ -1,0 +1,37 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"ItsDrCat"
+		]
+	},
+	"header": {
+		"name": "§d§lCatRTX",
+		"description": "§b[HAPPY BIRTHDAY CAT RTX!!!]... A stylized 16x Normals RTX Pack focused on color and ambience. (REQUIRES A PC WITH AN RTX GPU)",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "aad5800e-6cd2-4041-bd72-5e85aff2f3f8",
+		"version": [
+			1,
+			8,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "4ee3effd-7843-434b-b8bd-0d6d3854947a",
+			"version": [
+				1,
+				8,
+				2
+			]
+		}
+	],
+	"capabilities": [
+		"raytraced"
+	]
+}

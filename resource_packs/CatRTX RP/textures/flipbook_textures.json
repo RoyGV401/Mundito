@@ -1,0 +1,51 @@
+[
+    {
+        "flipbook_texture": "textures/blocks/redstone_ore",
+        "atlas_tile": "redstone_ore",
+        "ticks_per_frame": 15
+    },
+    {
+        "flipbook_texture": "textures/blocks/sculk",
+        "atlas_tile": "sculk",
+        "ticks_per_frame": 25
+    },
+    {
+        "flipbook_texture": "textures/blocks/glowstone",
+        "atlas_tile": "glowstone",
+        "ticks_per_frame": 25
+    },
+    {
+        "flipbook_texture": "textures/blocks/furnace_front_on",
+        "atlas_tile": "furnace_front_on",
+        "ticks_per_frame": 15
+    },
+    {
+        "flipbook_texture": "textures/blocks/deepslate/deepslate_redstone_ore",
+        "atlas_tile": "deepslate_redstone_ore",
+        "ticks_per_frame": 15
+    },
+    {
+        "flipbook_texture": "textures/blocks/nether_wart_block",
+        "atlas_tile": "nether_wart_block",
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    },
+    {
+        "flipbook_texture": "textures/blocks/warped_wart_block",
+        "atlas_tile": "warped_wart_block",
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    },
+    {
+        "flipbook_texture": "textures/entity/end_portal",
+        "atlas_tile": "end_portal",
+        "ticks_per_frame": 1,
+        "blend_frames": true
+    },
+    {
+        "flipbook_texture": "textures/blocks/mob_spawner",
+        "atlas_tile": "mob_spawner",
+        "ticks_per_frame": 50,
+        "blend_frames": true
+    }
+]
